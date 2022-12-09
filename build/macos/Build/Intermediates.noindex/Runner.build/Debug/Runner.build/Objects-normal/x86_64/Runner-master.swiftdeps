@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "79aef02e90101e4374d32f07dca42413333317180c201b33b648567cfb3a4aac"
+build_start_time: [1665736009, 970149993]
+build_end_time: [1665736017, 932023048]
+inputs:
+  "/Users/ayush/Documents/fingerprintmodule/macos/Flutter/GeneratedPluginRegistrant.swift": [1665735973, 263199329]
+  "/Users/ayush/Documents/fingerprintmodule/macos/Runner/AppDelegate.swift": [1639011687, 0]
+  "/Users/ayush/Documents/fingerprintmodule/macos/Runner/MainFlutterWindow.swift": [1639011687, 0]
